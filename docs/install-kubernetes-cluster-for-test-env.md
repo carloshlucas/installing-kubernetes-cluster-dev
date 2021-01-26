@@ -162,4 +162,4 @@ kubectl get nodes
 
 ## DONE
 
-If you followed all tips and didn't skip anything you problably had success.
+If you followed all tips and didn't skip anything you probably had success.
