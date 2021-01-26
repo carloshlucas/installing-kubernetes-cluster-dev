@@ -22,7 +22,7 @@ Kubernetes is an open-source container-orchestration system for automating appli
   * chlabk8sm02.chlab.local - 192.168.255.34/24
 
 ## Prerequisites 
-Before start creating your Kubernetes cluster, We need to prepare whole virtual machines (Master and Nodes).
+Before you start creating your Kubernetes cluster, We need to prepare whole virtual machines (Master and Nodes).
 
 * Name;
 * IP/DNS/GATEWAY;
