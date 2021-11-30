@@ -73,7 +73,7 @@ echo '1' > /proc/sys/net/bridge/bridge-nf-call-iptables
 ```
 **Configure DNS**
 
-I am using Windows Server to be my DNS Server.
+I am using Windows Server as a DNS Server.
 
 In master server edit the file /etc/resolv.conf
 ```
